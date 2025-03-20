@@ -48,10 +48,3 @@ Python article I found interesting [Fine-Tuning LLMs in Python](https://www.code
 ![IMG_2124](https://github.com/user-attachments/assets/eab085df-1cca-43a2-a5e9-38a5a48afc82)
 
 The 5 people pictured above [my parents, children, and grandmother] are my inspiration for taking this course.  In previously held positions I sacrificed a great deal of time with them due to work demands.  One role I held for over 10 years required traveling up to 75% of the time.  Anticpate sparking of this new career in a remote capacity will allow for a healthier work/life balance.
-
-
-
-    
-                         
-                         
-                        
